@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JookeTest</string>
+    <string name="id">ID</string>
+    <string name="signup_normal">Signup Normal</string>
+    <string name="signup_facebook">Signup Facebook</string>
+    <string name="signup_twitter">Signup Twitter</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_normal">Login Normal</string>
+    <string name="login_facebook">Login Facebook</string>
+    <string name="login_twitter">Login Twitter</string>
+    <string name="fullname">FullName</string>
+    <string name="instagram_link">Instagram Link</string>
+    <string name="facebook_link">Facebook Link</string>
+    <string name="twitter_link">Twitter Link</string>
+    <string name="profile_img">Profile Img Link</string>
+    <string name="save">Save Profile Edit</string>
+	<string name="forget">Forget Password</string>
+	<string name="userid">User Id</string>
+	<string name="heartbeat">Start Heartbeat</string>
+	<string name="gethost">Get Host Ip</string>
+	<string name="endevent">End Event</string>
+	<string name="getpeople">Get people info</string>
+</resources>
